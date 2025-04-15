@@ -50,6 +50,8 @@ I’m currently pursuing my Bachelor’s degree in Computer Engineering at "Inst
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="Bash" width="45" height="45"/>
 </p>
 
+![Snake animation](https://github.com/JoseAndresVargas/JoseAndresVargas/blob/output/github-contribution-grid-snake.svg)
+
 ## 🌐 Find Me Online
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jose-vargas-61143b35a)  
