@@ -3,13 +3,13 @@
 </p>
 
 
-Welcome! I'm Jose Vargas, a Computer Engineering student from Costa Rica passionate about technology, problem solving, and continuous learning.
+Welcome! I'm Jose Vargas, a Computer Science Engineer from Costa Rica passionate about technology, problem solving, and continuous learning.
 
 ---
 
 ## 🚀 About Me
 
-I’m currently pursuing my Bachelor’s degree in Computer Engineering at "Instituto Tecnológico de Costa Rica" (TEC). I enjoy working on academic and personal projects that challenge my creativity and help me grow as a developer.
+I got my Bachelor’s degree in Computer Science at "Instituto Tecnológico de Costa Rica" (TEC). I enjoy working on academic and personal projects that challenge my creativity and help me grow as a developer.
 
 
 ---
